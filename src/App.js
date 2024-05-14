@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { LeftMenu } from "./Components/LeftMenu";
 import { MainContainer } from "./Components/MainContainer";
